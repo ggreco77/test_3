@@ -3,7 +3,7 @@
     "gw_event": "testttttttt",
     "analyses": [
       {
-        "event": "GW150914",
+        "event": "testttttt",
         "analisys": "C01:IMRPhenomXPHM",
         "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW150914_C01_IMRPhenomXPHM",
         "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW150914_C01_IMRPhenomXPHM.png",
