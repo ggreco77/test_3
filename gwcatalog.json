@@ -1,0 +1,1597 @@
+[
+  {
+    "gw_event": "q",
+    "analyses": [
+      {
+        "event": "GW150914",
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW150914_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW150914_C01_IMRPhenomXPHM.png",
+        "minbar": "1.13E-06",
+        "maxbar": "2.26E-06",
+        "stepbar": "1.13E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW150914_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW150914_C01_IMRPhenomXPHM.fits",
+        "coef": "0.18",
+        "candidates": "21417. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW150914",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW150914_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW150914_C01_Mixed.png",
+        "minbar": "6.84E-07",
+        "maxbar": "1.48E-06",
+        "stepbar": "7.94E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW150914_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW150914_C01_Mixed.fits",
+        "coef": "0.15",
+        "candidates": "34588. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW150914",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW150914_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW150914_C01_SEOBNRv4PHM.png",
+        "minbar": "4.23E-07",
+        "maxbar": "8.25E-07",
+        "stepbar": "4.02E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW150914_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW150914_C01_SEOBNRv4PHM.fits",
+        "coef": "0.14",
+        "candidates": "48705. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW151012",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW151012_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW151012_C01_IMRPhenomXPHM.png",
+        "minbar": "6.12E-09",
+        "maxbar": "7.20E-09",
+        "stepbar": "1.09E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW151012_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW151012_C01_IMRPhenomXPHM.fits",
+        "coef": "0.04",
+        "candidates": "755235. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW151012_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW151012_C01_Mixed.png",
+        "minbar": "5.59E-09",
+        "maxbar": "7.93E-09",
+        "stepbar": "2.34E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW151012_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW151012_C01_Mixed.fits",
+        "coef": "0.04",
+        "candidates": "871929. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW151012_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW151012_C01_SEOBNRv4PHM.png",
+        "minbar": "6.34E-09",
+        "maxbar": "1.11E-08",
+        "stepbar": "4.74E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151012_095443_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW151012_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW151012_C01_SEOBNRv4PHM.fits",
+        "coef": "0.03",
+        "candidates": "907058. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW151226",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM.fits",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW151226_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW151226_C01_IMRPhenomXPHM.fits.png",
+        "minbar": "1.83E-07",
+        "maxbar": "2.87E-07",
+        "stepbar": "1.04E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151226_033853_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW151226_C01_IMRPhenomXPHM.fits.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW151226_C01_IMRPhenomXPHM.fits.fits",
+        "coef": "0.12",
+        "candidates": "95783. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW151226_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW151226_C01_Mixed.png",
+        "minbar": "1.85E-07",
+        "maxbar": "2.77E-07",
+        "stepbar": "9.16E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW151226_033853_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW151226_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW151226_C01_Mixed.fits",
+        "coef": "0.12",
+        "candidates": "96335. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170104",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170104_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170104_C01_IMRPhenomXPHM.png",
+        "minbar": "1.68E-08",
+        "maxbar": "2.35E-08",
+        "stepbar": "6.71E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170104_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170104_C01_IMRPhenomXPHM.fits",
+        "coef": "0.05",
+        "candidates": "413681. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170104_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170104_C01_Mixed.png",
+        "minbar": "2.11E-08",
+        "maxbar": "2.81E-08",
+        "stepbar": "6.96E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170104_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170104_C01_Mixed.fits",
+        "coef": "0.05",
+        "candidates": "486141. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170104_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170104_C01_SEOBNRv4PHM.png",
+        "minbar": "3.14E-08",
+        "maxbar": "4.30E-08",
+        "stepbar": "1.17E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170104_101158_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170104_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170104_C01_SEOBNRv4PHM.fits",
+        "coef": "0.05",
+        "candidates": "514069. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170608",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170608_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170608_C01_IMRPhenomXPHM.png",
+        "minbar": "8.61E-07",
+        "maxbar": "2.64E-06",
+        "stepbar": "1.78E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170608_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170608_C01_IMRPhenomXPHM.fits",
+        "coef": "0.16",
+        "candidates": "30300. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170608_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170608_C01_Mixed.png",
+        "minbar": "7.51E-07",
+        "maxbar": "1.92E-06",
+        "stepbar": "1.17E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170608_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170608_C01_Mixed.fits",
+        "coef": "0.17",
+        "candidates": "32344. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170608_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170608_C01_SEOBNRv4PHM.png",
+        "minbar": "6.90E-07",
+        "maxbar": "1.82E-06",
+        "stepbar": "1.13E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170608_020116_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170608_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170608_C01_SEOBNRv4PHM.fits",
+        "coef": "0.16",
+        "candidates": "28406. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170729",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170729_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170729_C01_IMRPhenomXPHM.png",
+        "minbar": "2.20E-09",
+        "maxbar": "3.22E-09",
+        "stepbar": "1.02E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170729_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170729_C01_IMRPhenomXPHM.fits",
+        "coef": "0.005",
+        "candidates": "1366072. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170729_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170729_C01_Mixed.png",
+        "minbar": "1.16E-09",
+        "maxbar": "1.56E-09",
+        "stepbar": "3.98E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170729_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170729_C01_Mixed.fits",
+        "coef": "0.005",
+        "candidates": "1321178. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170729_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170729_C01_SEOBNRv4PHM.png",
+        "minbar": "1.24E-09",
+        "maxbar": "1.45E-09",
+        "stepbar": "2.05E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170729_185629_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170729_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170729_C01_SEOBNRv4PHM.fits",
+        "coef": "0.003",
+        "candidates": "775480. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170809",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170809_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170809_C01_IMRPhenomXPHM.png",
+        "minbar": "6.59E-08",
+        "maxbar": "1.03E-07",
+        "stepbar": "3.76E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170809_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170809_C01_IMRPhenomXPHM.fits",
+        "coef": "0.05",
+        "candidates": "121011. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170809_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170809_C01_Mixed.png",
+        "minbar": "6.48E-08",
+        "maxbar": "1.03E-07",
+        "stepbar": "3.82E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170809_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170809_C01_Mixed.fits",
+        "coef": "0.05",
+        "candidates": "135995. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170809_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170809_C01_SEOBNRv4PHM.png",
+        "minbar": "6.32E-08",
+        "maxbar": "8.60E-08",
+        "stepbar": "2.29E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170809_082821_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170809_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170809_C01_SEOBNRv4PHM.fits",
+        "coef": "0.05",
+        "candidates": "136580. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170814",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170814_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170814_C01_IMRPhenomXPHM.png",
+        "minbar": "5.71E-07",
+        "maxbar": "2.22E-06",
+        "stepbar": "1.64E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170814_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170814_C01_IMRPhenomXPHM.fits",
+        "coef": "0.14",
+        "candidates": "18571. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170814_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170814_C01_Mixed.png",
+        "minbar": "5.45E-07",
+        "maxbar": "2.03E-06",
+        "stepbar": "1.49E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170814_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170814_C01_Mixed.fits",
+        "coef": "0.14",
+        "candidates": "22033. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170814_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170814_C01_SEOBNRv4PHM.png",
+        "minbar": "5.16E-07",
+        "maxbar": "1.79E-06",
+        "stepbar": "1.27E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170814_103043_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170814_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170814_C01_SEOBNRv4PHM.fits",
+        "coef": "0.13",
+        "candidates": "23984. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170817",
+    "analyses": [
+      {
+        "analisys": "TaylorF2",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170817_TaylorF2",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170817_TaylorF2.png",
+        "minbar": "7.83E-04",
+        "maxbar": "1.14E-02",
+        "stepbar": "1.07E-04",
+        "skymap": "https://virgo.pg.infn.it/maps/gw170817_skymap/GW170817_skymap.fits.gz",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170817_TaylorF2.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170817_TaylorF2.fits",
+        "coef": "1",
+        "candidates": "28."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170818",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170818_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170818_C01_IMRPhenomXPHM.png",
+        "minbar": "1.73E-07",
+        "maxbar": "4.33E-07",
+        "stepbar": "2.60E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170818_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170818_C01_IMRPhenomXPHM.fits",
+        "coef": "0.04",
+        "candidates": "16352. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170818_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170818_C01_Mixed.png",
+        "minbar": "1.75E-07",
+        "maxbar": "3.98E-07",
+        "stepbar": "2.23E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170818_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170818_C01_Mixed.fits",
+        "coef": "0.04",
+        "candidates": "20333. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170818_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170818_C01_SEOBNRv4PHM.png",
+        "minbar": "1.81E-07",
+        "maxbar": "3.98E-07",
+        "stepbar": "2.17E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170818_022509_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170818_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170818_C01_SEOBNRv4PHM.fits",
+        "coef": "0.04",
+        "candidates": "21351. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW170823",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170823_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170823_C01_IMRPhenomXPHM.png",
+        "minbar": "8.30E-10",
+        "maxbar": "1.15E-09",
+        "stepbar": "3.24E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170823_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170823_C01_IMRPhenomXPHM.fits",
+        "coef": "0.01",
+        "candidates": "1019661. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170823_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170823_C01_Mixed.png",
+        "minbar": "6.47E-10",
+        "maxbar": "1.21E-09",
+        "stepbar": "5.60E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170823_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170823_C01_Mixed.fits",
+        "coef": "0.01",
+        "candidates": "1242392. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW170823",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW170823_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW170823_C01_SEOBNRv4PHM.png",
+        "minbar": "7.13E-10",
+        "maxbar": "1.40E-09",
+        "stepbar": "6.87E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW170823_131358_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW170823_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW170823_C01_SEOBNRv4PHM.fits",
+        "coef": "0.01",
+        "candidates": "1437032. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190403_051519",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190403_051519_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190403_051519_C01_IMRPhenomXPHM.png",
+        "minbar": "3.76E-11",
+        "maxbar": "1.18E-10",
+        "stepbar": "8.07E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190403_051519_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190403_051519_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0002",
+        "candidates": "4464710. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190403_051519",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190403_051519_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190403_051519_C01_Mixed.png",
+        "minbar": "1.10E-11",
+        "maxbar": "1.31E-11",
+        "stepbar": "2.09E-14",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190403_051519_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190403_051519_C01_Mixed.fits",
+        "coef": "0.0001",
+        "candidates": "5221184. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190403_051519_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190403_051519_C01_SEOBNRv4PHM.png",
+        "minbar": "4.82E-12",
+        "maxbar": "7.05E-12",
+        "stepbar": "2.22E-14",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190403_051519_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190403_051519_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190403_051519_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0001",
+        "candidates": "7318040. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190408_181802",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190408_181802_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190408_181802_C01_IMRPhenomXPHM.png",
+        "minbar": "9.10E-09",
+        "maxbar": "2.36E-08",
+        "stepbar": "1.45E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190408_181802_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190408_181802_C01_IMRPhenomXPHM.fits",
+        "coef": "0.013",
+        "candidates": "105813. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190408_181802_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190408_181802_C01_Mixed.png",
+        "minbar": "7.79E-09",
+        "maxbar": "2.70E-08",
+        "stepbar": "1.92E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190408_181802_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190408_181802_C01_Mixed.fits",
+        "coef": "0.011",
+        "candidates": "103959. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190408_181802",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190408_181802_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190408_181802_C01_SEOBNRv4PHM.png",
+        "minbar": "9.08E-09",
+        "maxbar": "2.84E-08",
+        "stepbar": "1.93E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190408_181802_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190408_181802_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190408_181802_C01_SEOBNRv4PHM.fits",
+        "coef": "0.010",
+        "candidates": "82847. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190412",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190412_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190412_C01_IMRPhenomXPHM.png",
+        "minbar": "2.67E-07",
+        "maxbar": "1.80E-05",
+        "stepbar": "1.77E-07",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190412_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190412_C01_IMRPhenomXPHM.fits",
+        "coef": "0.084",
+        "candidates": "6221. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190412_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190412_C01_Mixed.png",
+        "minbar": "2.18E-07",
+        "maxbar": "2.27E-06",
+        "stepbar": "2.05E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190412_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190412_C01_Mixed.fits",
+        "coef": "0.073",
+        "candidates": "46825. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190412_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190412_C01_SEOBNRv4PHM.png",
+        "minbar": "1.75E-07",
+        "maxbar": "3.35E-07",
+        "stepbar": "1.60E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190412_053044_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190412_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190412_C01_SEOBNRv4PHM.fits",
+        "coef": "0.076",
+        "candidates": "82684. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190413_052954",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_052954_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_052954_C01_IMRPhenomXPHM.png",
+        "minbar": "1.40E-09",
+        "maxbar": "6.52E-09",
+        "stepbar": "5.11E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_052954_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_052954_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0012",
+        "candidates": "497590. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190413_052954",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_052954_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_052954_C01_Mixed.png",
+        "minbar": "1.35E-09",
+        "maxbar": "6.71E-09",
+        "stepbar": "5.36E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_052954_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_052954_C01_Mixed.fits",
+        "coef": "0.0013",
+        "candidates": "522737. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_052954_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_052954_C01_SEOBNRv4PHM.png",
+        "minbar": "1.20E-10",
+        "maxbar": "1.60E-10",
+        "stepbar": "4.01E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_052954_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_052954_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_052954_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0013",
+        "candidates": "2928167. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190413_134308",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_134308_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_134308_C01_IMRPhenomXPHM.png",
+        "minbar": "9.54E-10",
+        "maxbar": "1.94E-09",
+        "stepbar": "9.84E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_134308_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_134308_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0016",
+        "candidates": "797747. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_134308_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_134308_C01_Mixed.png",
+        "minbar": "9.42E-10",
+        "maxbar": "1.92E-09",
+        "stepbar": "9.73E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_134308_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_134308_C01_Mixed.fits",
+        "coef": "0.0017",
+        "candidates": "887108. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190413_134308_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190413_134308_C01_SEOBNRv4PHM.png",
+        "minbar": "7.58E-11",
+        "maxbar": "1.38E-10",
+        "stepbar": "6.20E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190413_134308_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190413_134308_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190413_134308_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0021",
+        "candidates": "4187614. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190421_213856",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190421_213856_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190421_213856_C01_IMRPhenomXPHM.png",
+        "minbar": "5.76E-10",
+        "maxbar": "7.08E-10",
+        "stepbar": "1.31E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190421_213856_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190421_213856_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0039",
+        "candidates": "960679. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190421_213856",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190421_213856_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190421_213856_C01_Mixed.png",
+        "minbar": "5.67E-10",
+        "maxbar": "7.00E-10",
+        "stepbar": "1.33E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190421_213856_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190421_213856_C01_Mixed.fits",
+        "coef": "0.0040",
+        "candidates": "985468. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190421_213856",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190421_213856_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190421_213856_C01_SEOBNRv4PHM.png",
+        "minbar": "3.90E-10",
+        "maxbar": "5.77E-10",
+        "stepbar": "1.87E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190421_213856_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190421_213856_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190421_213856_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0026",
+        "candidates": "724788. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190425",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomPv2_NRTidal:HighSpin",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190425_C01_IMRPhenomPv2_NRTidal_HighSpin",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190425_C01_IMRPhenomPv2_NRTidal:HighSpin.png",
+        "minbar": "6.07E-07",
+        "maxbar": "1.96E-06",
+        "stepbar": "1.36E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:IMRPhenomPv2_NRTidal:HighSpin.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190425_C01_IMRPhenomPv2_NRTidal_HighSpin.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190425_C01_IMRPhenomPv2_NRTidal_HighSpin.fits",
+        "coef": "0.205",
+        "candidates": "112807. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:IMRPhenomPv2_NRTidal:LowSpin",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190425_C01_IMRPhenomPv2_NRTidal_LowSpin",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190425_C01_IMRPhenomPv2_NRTidal:LowSpin.png",
+        "minbar": "6.49E-07",
+        "maxbar": "1.70E-06",
+        "stepbar": "1.05E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:IMRPhenomPv2_NRTidal:LowSpin.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190425_C01_IMRPhenomPv2_NRTidal_LowSpin.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190425_C01_IMRPhenomPv2_NRTidal_LowSpin.fits",
+        "coef": "0.201",
+        "candidates": "111787. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190425",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190425_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190425_C01_Mixed.png",
+        "minbar": "6.05E-07",
+        "maxbar": "1.57E-06",
+        "stepbar": "9.64E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190425_081805_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190425_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190425_C01_Mixed.fits",
+        "coef": "0.205",
+        "candidates": "113924. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190426_190642",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190426_190642_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190426_190642_C01_IMRPhenomXPHM.png",
+        "minbar": "4.83E-11",
+        "maxbar": "5.62E-11",
+        "stepbar": "7.95E-14",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190426_190642_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190426_190642_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0006",
+        "candidates": "4460903. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190426_190642",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190426_190642_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190426_190642_C01_Mixed.png",
+        "minbar": "5.09E-11",
+        "maxbar": "6.30E-11",
+        "stepbar": "1.20E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190426_190642_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190426_190642_C01_Mixed.fits",
+        "coef": "0.0006",
+        "candidates": "4747986. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190426_190642_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190426_190642_C01_SEOBNRv4PHM.png",
+        "minbar": "4.29E-11",
+        "maxbar": "6.32E-11",
+        "stepbar": "2.02E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190426_190642_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190426_190642_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190426_190642_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0009",
+        "candidates": "4940311. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190503_185404",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190503_185404_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190503_185404_C01_IMRPhenomXPHM.png",
+        "minbar": "3.53E-08",
+        "maxbar": "5.65E-08",
+        "stepbar": "2.12E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190503_185404_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190503_185404_C01_IMRPhenomXPHM.fits",
+        "coef": "0.022",
+        "candidates": "101691. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190503_185404",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190503_185404_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190503_185404_C01_Mixed.png",
+        "minbar": "3.33E-08",
+        "maxbar": "5.09E-08",
+        "stepbar": "1.76E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190503_185404_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190503_185404_C01_Mixed.fits",
+        "coef": "0.021",
+        "candidates": "88005. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190503_185404",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190503_185404_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190503_185404_C01_SEOBNRv4PHM.png",
+        "minbar": "3.42E-08",
+        "maxbar": "5.13E-08",
+        "stepbar": "1.70E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190503_185404_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190503_185404_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190503_185404_C01_SEOBNRv4PHM.fits",
+        "coef": "0.020",
+        "candidates": "74083. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190512_180714",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190512_180714_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190512_180714_C01_IMRPhenomXPHM.png",
+        "minbar": "7.44E-09",
+        "maxbar": "3.33E-08",
+        "stepbar": "2.59E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190512_180714_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190512_180714_C01_IMRPhenomXPHM.fits",
+        "coef": "0.012",
+        "candidates": "102172. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190512_180714",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190512_180714_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190512_180714_C01_Mixed.png",
+        "minbar": "9.36E-09",
+        "maxbar": "2.37E-08",
+        "stepbar": "1.44E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190512_180714_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190512_180714_C01_Mixed.fits",
+        "coef": "0.012",
+        "candidates": "111068. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190512_180714",
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190512_180714_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190512_180714_C01_SEOBNRv4PHM.png",
+        "minbar": "1.31E-08",
+        "maxbar": "2.82E-08",
+        "stepbar": "1.52E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190512_180714_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190512_180714_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190512_180714_C01_SEOBNRv4PHM.fits",
+        "coef": "0.011",
+        "candidates": "82027. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190513_205428",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190513_205428_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190513_205428_C01_IMRPhenomXPHM.png",
+        "minbar": "2.21E-09",
+        "maxbar": "8.76E-09",
+        "stepbar": "6.55E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190513_205428_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190513_205428_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0031",
+        "candidates": "141604. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190513_205428",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190513_205428_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190513_205428_C01_Mixed.png",
+        "minbar": "1.60E-09",
+        "maxbar": "3.52E-09",
+        "stepbar": "1.92E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190513_205428_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190513_205428_C01_Mixed.fits",
+        "coef": "0.0028",
+        "candidates": "155712. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190513_205428_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190513_205428_C01_SEOBNRv4PHM.png",
+        "minbar": "1.47E-09",
+        "maxbar": "2.66E-09",
+        "stepbar": "1.19E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190513_205428_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190513_205428_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190513_205428_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0022",
+        "candidates": "120890. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190514_065416",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190514_065416_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190514_065416_C01_IMRPhenomXPHM.png",
+        "minbar": "7.77E-11",
+        "maxbar": "9.94E-11",
+        "stepbar": "2.17E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190514_065416_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190514_065416_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0012",
+        "candidates": "3052001. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190514_065416",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190514_065416_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190514_065416_C01_Mixed.png",
+        "minbar": "6.51E-11",
+        "maxbar": "9.44E-11",
+        "stepbar": "2.92E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190514_065416_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190514_065416_C01_Mixed.fits",
+        "coef": "0.0013",
+        "candidates": "3347641. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190514_065416_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190514_065416_C01_SEOBNRv4PHM.png",
+        "minbar": "6.73E-11",
+        "maxbar": "9.10E-11",
+        "stepbar": "2.37E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190514_065416_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190514_065416_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190514_065416_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0013",
+        "candidates": "3084345. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190517_055101",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190517_055101_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190517_055101_C01_IMRPhenomXPHM.png",
+        "minbar": "2.49E-09",
+        "maxbar": "1.89E-08",
+        "stepbar": "1.64E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190517_055101_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190517_055101_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0079",
+        "candidates": "287227. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190517_055101",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190517_055101_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190517_055101_C01_Mixed.png",
+        "minbar": "2.20E-09",
+        "maxbar": "1.18E-08",
+        "stepbar": "9.56E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190517_055101_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190517_055101_C01_Mixed.fits",
+        "coef": "0.0065",
+        "candidates": "444410. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190517_055101_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190517_055101_C01_SEOBNRv4PHM.png",
+        "minbar": "2.62E-09",
+        "maxbar": "7.65E-09",
+        "stepbar": "5.03E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190517_055101_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190517_055101_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190517_055101_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0045",
+        "candidates": "418393. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190519_153544",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190519_153544_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190519_153544_C01_IMRPhenomXPHM.png",
+        "minbar": "9.44E-10",
+        "maxbar": "1.25E-09",
+        "stepbar": "3.06E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190519_153544_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190519_153544_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0029",
+        "candidates": "547073. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "event": "GW190519_153544",
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190519_153544_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190519_153544_C01_Mixed.png",
+        "minbar": "1.17E-09",
+        "maxbar": "1.76E-09",
+        "stepbar": "5.92E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190519_153544_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190519_153544_C01_Mixed.fits",
+        "coef": "0.0030",
+        "candidates": "499399. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190519_153544_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190519_153544_C01_SEOBNRv4PHM.png",
+        "minbar": "3.29E-09",
+        "maxbar": "2.81E-08",
+        "stepbar": "2.48E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190519_153544_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190519_153544_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190519_153544_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0031",
+        "candidates": "580531. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190521",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190521_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190521_C01_IMRPhenomXPHM.png",
+        "minbar": "9.97E-10",
+        "maxbar": "1.31E-09",
+        "stepbar": "3.11E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_030229_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190521_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190521_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0023",
+        "candidates": "1606648. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190521_01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190521_01:SEOBNRv4PHM.png",
+        "minbar": "6.93E-09",
+        "maxbar": "3.73E-08",
+        "stepbar": "3.04E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_030229_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190521_01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190521_01_SEOBNRv4PHM.fits",
+        "coef": "0.0054",
+        "candidates": "3486976. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190521_074359",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190521_074359_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190521_074359_C01_IMRPhenomXPHM.png",
+        "minbar": "1.97E-08",
+        "maxbar": "5.45E-08",
+        "stepbar": "3.48E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190521_074359_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190521_074359_C01_IMRPhenomXPHM.fits",
+        "coef": "0.020",
+        "candidates": "94301. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190521_074359_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190521_074359_C01_Mixed.png",
+        "minbar": "1.15E-08",
+        "maxbar": "2.60E-08",
+        "stepbar": "1.45E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190521_074359_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190521_074359_C01_Mixed.fits",
+        "coef": "0.014",
+        "candidates": "104849. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190521_074359_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190521_074359_C01_SEOBNRv4PHM.png",
+        "minbar": "9.95E-09",
+        "maxbar": "3.56E-08",
+        "stepbar": "2.56E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190521_074359_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190521_074359_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190521_074359_C01_SEOBNRv4PHM.fits",
+        "coef": "0.005",
+        "candidates": "35529. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190527_092055",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190527_092055_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190527_092055_C01_IMRPhenomXPHM.png",
+        "minbar": "4.17E-10",
+        "maxbar": "4.35E-10",
+        "stepbar": "1.78E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190527_092055_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190527_092055_C01_IMRPhenomXPHM.fits",
+        "coef": "0.003",
+        "candidates": "4680063. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190527_092055_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190527_092055_C01_Mixed.png",
+        "minbar": "4.29E-10",
+        "maxbar": "4.59E-10",
+        "stepbar": "2.98E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190527_092055_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190527_092055_C01_Mixed.fits",
+        "coef": "0.004",
+        "candidates": "4431705. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190527_092055_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190527_092055_C01_SEOBNRv4PHM.png",
+        "minbar": "4.33E-10",
+        "maxbar": "4.81E-10",
+        "stepbar": "4.86E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190527_092055_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190527_092055_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190527_092055_C01_SEOBNRv4PHM.fits",
+        "coef": "0.004",
+        "candidates": "3139622. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190602_175927",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190602_175927_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190602_175927_C01_IMRPhenomXPHM.png",
+        "minbar": "1.07E-09",
+        "maxbar": "2.25E-09",
+        "stepbar": "1.18E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190602_175927_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190602_175927_C01_IMRPhenomXPHM.fits",
+        "coef": "0.002",
+        "candidates": "587778. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190602_175927_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190602_175927_C01_Mixed.png",
+        "minbar": "1.11E-09",
+        "maxbar": "2.24E-09",
+        "stepbar": "1.14E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190602_175927_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190602_175927_C01_Mixed.fits",
+        "coef": "0.002",
+        "candidates": "519993. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190602_175927_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190602_175927_C01_SEOBNRv4PHM.png",
+        "minbar": "1.30E-09",
+        "maxbar": "2.51E-09",
+        "stepbar": "1.20E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190602_175927_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190602_175927_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190602_175927_C01_SEOBNRv4PHM.fits",
+        "coef": "0.002",
+        "candidates": "387545. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190620_030421",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190620_030421_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190620_030421_C01_IMRPhenomXPHM.png",
+        "minbar": "2.24E-10",
+        "maxbar": "3.09E-10",
+        "stepbar": "8.46E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190620_030421_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190620_030421_C01_IMRPhenomXPHM.fits",
+        "coef": "0.002",
+        "candidates": "4339312. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190620_030421_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190620_030421_C01_Mixed.png",
+        "minbar": "2.33E-10",
+        "maxbar": "3.25E-10",
+        "stepbar": "9.22E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190620_030421_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190620_030421_C01_Mixed.fits",
+        "coef": "0.002",
+        "candidates": "4674524. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190620_030421_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190620_030421_C01_SEOBNRv4PHM.png",
+        "minbar": "2.30E-10",
+        "maxbar": "3.03E-10",
+        "stepbar": "7.28E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190620_030421_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190620_030421_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190620_030421_C01_SEOBNRv4PHM.fits",
+        "coef": "0.002",
+        "candidates": "5296831. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190630_185205",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190630_185205_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190630_185205_C01_IMRPhenomXPHM.png",
+        "minbar": "5.28E-08",
+        "maxbar": "9.49E-08",
+        "stepbar": "4.21E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190630_185205_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190630_185205_C01_IMRPhenomXPHM.fits",
+        "coef": "0.061",
+        "candidates": "484200. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190630_185205_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190630_185205_C01_Mixed.png",
+        "minbar": "5.99E-08",
+        "maxbar": "9.93E-08",
+        "stepbar": "3.94E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190630_185205_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190630_185205_C01_Mixed.fits",
+        "coef": "0.062",
+        "candidates": "541218. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190630_185205_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190630_185205_C01_SEOBNRv4PHM.png",
+        "minbar": "6.93E-08",
+        "maxbar": "1.12E-07",
+        "stepbar": "4.24E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190630_185205_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190630_185205_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190630_185205_C01_SEOBNRv4PHM.fits",
+        "coef": "0.032",
+        "candidates": "389427. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190701_203306",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190701_203306_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190701_203306_C01_IMRPhenomXPHM.png",
+        "minbar": "1.68E-08",
+        "maxbar": "4.13E-08",
+        "stepbar": "2.45E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190701_203306_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190701_203306_C01_IMRPhenomXPHM.fits",
+        "coef": "0.027",
+        "candidates": "26361. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190701_203306_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190701_203306_C01_Mixed.png",
+        "minbar": "1.66E-08",
+        "maxbar": "4.04E-08",
+        "stepbar": "2.38E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190701_203306_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190701_203306_C01_Mixed.fits",
+        "coef": "0.025",
+        "candidates": "25119. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190701_203306_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190701_203306_C01_SEOBNRv4PHM.png",
+        "minbar": "1.62E-08",
+        "maxbar": "4.18E-08",
+        "stepbar": "2.57E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190701_203306_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190701_203306_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190701_203306_C01_SEOBNRv4PHM.fits",
+        "coef": "0.007",
+        "candidates": "23655. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190706",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190706_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190706_C01_IMRPhenomXPHM.png",
+        "minbar": "5.32E-10",
+        "maxbar": "6.32E-10",
+        "stepbar": "1.00E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190706_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190706_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0065",
+        "candidates": "2450414. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190706_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190706_C01_Mixed.png",
+        "minbar": "2.58E-10",
+        "maxbar": "3.02E-10",
+        "stepbar": "4.46E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190706_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190706_C01_Mixed.fits",
+        "coef": "0.0060",
+        "candidates": "2899911. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190706_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190706_C01_SEOBNRv4PHM.png",
+        "minbar": "2.58E-10",
+        "maxbar": "3.05E-10",
+        "stepbar": "4.62E-13",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190706_222641_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190706_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190706_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0206",
+        "candidates": "3075472. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190707_093326",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190707_093326_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190707_093326_C01_IMRPhenomXPHM.png",
+        "minbar": "3.20E-08",
+        "maxbar": "5.07E-08",
+        "stepbar": "1.87E-10",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190707_093326_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190707_093326_C01_IMRPhenomXPHM.fits",
+        "coef": "0.021",
+        "candidates": "132716. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190707_093326_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190707_093326_C01_Mixed.png",
+        "minbar": "2.03E-08",
+        "maxbar": "2.61E-08",
+        "stepbar": "5.85E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190707_093326_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190707_093326_C01_Mixed.fits",
+        "coef": "0.008",
+        "candidates": "197935. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190707_093326_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190707_093326_C01_SEOBNRv4PHM.png",
+        "minbar": "3.04E-08",
+        "maxbar": "3.83E-08",
+        "stepbar": "7.84E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190707_093326_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190707_093326_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190707_093326_C01_SEOBNRv4PHM.fits",
+        "coef": "0.008",
+        "candidates": "257569. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190708_232457",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190708_232457_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190708_232457_C01_IMRPhenomXPHM.png",
+        "minbar": "9.32E-09",
+        "maxbar": "1.44E-08",
+        "stepbar": "5.11E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190708_232457_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190708_232457_C01_IMRPhenomXPHM.fits",
+        "coef": "0.008",
+        "candidates": "4376035. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190708_232457_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190708_232457_C01_Mixed.png",
+        "minbar": "6.79E-09",
+        "maxbar": "1.13E-08",
+        "stepbar": "4.53E-11",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190708_232457_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190708_232457_C01_Mixed.fits",
+        "coef": "0.029",
+        "candidates": "4584086. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190708_232457_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190708_232457_C01_SEOBNRv4PHM.png",
+        "minbar": "5.80E-09",
+        "maxbar": "6.69E-09",
+        "stepbar": "8.89E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190708_232457_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190708_232457_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190708_232457_C01_SEOBNRv4PHM.fits",
+        "coef": "0.029",
+        "candidates": "5006455. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190719_215514",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190719_215514_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190719_215514_C01_IMRPhenomXPHM.png",
+        "minbar": "1.61E-10",
+        "maxbar": "4.83E-10",
+        "stepbar": "3.22E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190719_215514_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190719_215514_C01_IMRPhenomXPHM.fits",
+        "coef": "0.028",
+        "candidates": "4212144. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190719_215514_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190719_215514_C01_Mixed.png",
+        "minbar": "1.93E-10",
+        "maxbar": "3.87E-10",
+        "stepbar": "1.94E-12",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190719_215514_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190719_215514_C01_Mixed.fits",
+        "coef": "0.0009",
+        "candidates": "4093973. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190719_215514_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190719_215514_C01_SEOBNRv4PHM.png",
+        "minbar": "1.23E-10",
+        "maxbar": "1.33E-10",
+        "stepbar": "9.53E-14",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190719_215514_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190719_215514_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190719_215514_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0008",
+        "candidates": "3454168. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  },
+  {
+    "gw_event": "GW190720_000836",
+    "analyses": [
+      {
+        "analisys": "C01:IMRPhenomXPHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190720_000836_C01_IMRPhenomXPHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190720_000836_C01_IMRPhenomXPHM.png",
+        "minbar": "1.00E-08",
+        "maxbar": "1.73E-06",
+        "stepbar": "1.72E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:IMRPhenomXPHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190720_000836_C01_IMRPhenomXPHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190720_000836_C01_IMRPhenomXPHM.fits",
+        "coef": "0.0006",
+        "candidates": "149."
+      },
+      {
+        "analisys": "C01:Mixed",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190720_000836_C01_Mixed",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190720_000836_C01_Mixed.png",
+        "minbar": "3.60E-09",
+        "maxbar": "1.42E-06",
+        "stepbar": "1.42E-08",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:Mixed.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190720_000836_C01_Mixed.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190720_000836_C01_Mixed.fits",
+        "coef": "0.0083",
+        "candidates": "113337. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      },
+      {
+        "analisys": "C01:SEOBNRv4PHM",
+        "hips": "https://virgo.pg.infn.it/gladenet/catalogs/hips/shortenGW190720_000836_C01_SEOBNRv4PHM",
+        "comple": "https://virgo.pg.infn.it/gladenet/catalogs/comple/GW190720_000836_C01_SEOBNRv4PHM.png",
+        "minbar": "6.48E-09",
+        "maxbar": "9.59E-07",
+        "stepbar": "9.53E-09",
+        "skymap": "https://virgo.pg.infn.it/maps/PESkyMaps_051122/IGWN-GWTC2p1-v2-GW190720_000836_PEDataRelease_cosmo_reweight_C01:SEOBNRv4PHM.fits",
+        "vots": "https://virgo.pg.infn.it/gladenet/catalogs/vots/GW190720_000836_C01_SEOBNRv4PHM.vot",
+        "mocarea": "https://virgo.pg.infn.it/gladenet/catalogs/mocs/MOC0.9_GW190720_000836_C01_SEOBNRv4PHM.fits",
+        "coef": "0.0087",
+        "candidates": "194689. Note: only the first 2000 galaxies are shown in descending order of dPdV. The full table can be downloaded below."
+      }
+    ]
+  }
+]
